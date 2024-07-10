@@ -1,0 +1,26 @@
+name: real_time_chat_app
+description: "A new Flutter project."
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  web_socket_channel: ^3.0.0
+  shared_preferences: ^2.2.3
+  bloc: ^8.1.4
+  flutter_bloc: ^8.1.6
+  encrypt: ^5.0.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
