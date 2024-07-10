@@ -44,20 +44,15 @@ Follow these steps to run the application on your local machine:
    ```
 
 4. **Install the Requirements**:
-   bash```
+
+   ```bash
    flutter pub get
-
-   ```
-
    ```
 
 5. **Run the App**:
-   bash```
+
+   ```bash
    flutter run
-
-   ```
-
    ```
 
 ## Screenshots
-# ashlesh-md.github.io
